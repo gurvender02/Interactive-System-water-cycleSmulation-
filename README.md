@@ -2,7 +2,7 @@
 
 👋 Welcome! This project is a fun and interactive learning tool designed especially for young kids (around 7–8 years old) to help them understand the Water Cycle — how water moves in nature through the sun, clouds, evaporation, and rain!
 
-[![Try it Online](https://img.shields.io/badge/Try_it_Online-p5.js_Editor-blue?style=for-the-badge)]([YOUR_P5_EDITOR_LINK_HERE](https://editor.p5js.org/gurvender22192/sketches/QUsCXOAB7)) 
+[![Try it Online](https://img.shields.io/badge/Try_it_Online-p5.js_Editor-blue?style=for-the-badge)]((https://editor.p5js.org/gurvender22192/sketches/QUsCXOAB7)) 
 ## ✨ Features
 - 🌞 Drag the Sun using your hand or mouse to evaporate water
 - 💨 Move Clouds using gestures to simulate wind and collisions
@@ -31,14 +31,14 @@ This simulation visually teaches:
 ## 💡 How to Run the Project
 
 ### ✅ Option 1: Run Online (Easy)
-1. Go to the project: [p5.js editor](YOUR_P5_EDITOR_LINK_HERE)
+1. Go to the project: [p5.js editor]([YOUR_P5_EDITOR_LINK_HERE](https://editor.p5js.org/gurvender22192/sketches/QUsCXOAB7))
 2. Click the ▶️ Play button
 3. Allow camera access when prompted (for hand detection)
 4. Interact by moving your hand to drag the Sun or Clouds!
 
 ### 💻 Option 2: Run Locally
 
-git clone https://github.com/your-repo-link.git
+git clone https://github.com/gurvender02/Interactive-System-water-cycleSmulation-
 
 Open index.html in your browser
 
