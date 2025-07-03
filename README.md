@@ -2,6 +2,9 @@
 
 👋 Welcome! This project is a fun and interactive learning tool designed especially for young kids (around 7–8 years old) to help them understand the Water Cycle — how water moves in nature through the sun, clouds, evaporation, and rain!
 
+DEMO:
+![Image](https://github.com/user-attachments/assets/9431a472-f62e-4b4b-a1ca-d5fc240daddd)
+
 [![Try it Online](https://img.shields.io/badge/Try_it_Online-p5.js_Editor-blue?style=for-the-badge)](https://editor.p5js.org/gurvender22192/sketches/QUsCXOAB7)
 ## ✨ Features
 - 🌞 Drag the Sun using your hand or mouse to evaporate water
@@ -77,7 +80,7 @@ Communication is done using serial signals from p5.js to Arduino.
 ├── cloud2.png          # Cloud image
 ├── moutain.png         # Mountain image
 ├── crow.gif            # Cow animation
-└── waterCycle.ino      # Optional Arduino code
+└── waterCycleLED.ino      # OArduino code
 ```
 
 🎯 Why This Project?
