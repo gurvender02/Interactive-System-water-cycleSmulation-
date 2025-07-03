@@ -64,6 +64,8 @@ Action	Real-World Effect
 Communication is done using serial signals from p5.js to Arduino.
 
 📂 File Structure
+## 📂 File Structure
+```
 /project-folder
 │
 ├── index.html          # Entry point
@@ -76,6 +78,7 @@ Communication is done using serial signals from p5.js to Arduino.
 ├── moutain.png         # Mountain image
 ├── crow.gif            # Cow animation
 └── waterCycle.ino      # Optional Arduino code
+```
 
 🎯 Why This Project?
 We believe learning should be fun and interactive, especially for children. This simulation blends science, visuals, sound, real-world hardware, and motion tracking to create a unique way of understanding the water cycle.
